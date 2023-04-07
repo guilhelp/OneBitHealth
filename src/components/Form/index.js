@@ -9,8 +9,8 @@ import {
     Keyboard,
     FlatList,
     } from "react-native"
-import ResultImc from "./ResultImc";
-import styleform from "./styleform";
+import ResultImc from "./ResultImc/";
+import styleform from "./styleform/";
 
 export default function Form(){
 

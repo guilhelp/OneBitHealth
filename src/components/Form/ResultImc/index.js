@@ -1,6 +1,6 @@
 import { View, Text, TouchableOpacity, Share } from 'react-native'
 import React from 'react'
-import styleresult from './styleresult'
+import styleresult from '/styleresult'
 
 
 export default function ResultImc(props) {
